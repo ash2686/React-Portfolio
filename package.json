@@ -1,5 +1,6 @@
 {
-   "name": "router-prct",
+ "homepage" : "https://ash2686/github.io/new-portfolio"
+  "name": "router-prct",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
