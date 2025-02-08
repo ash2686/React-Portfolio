@@ -1,7 +1,8 @@
 import React from 'react';
 import './About.css'
-import leo from '../mypics/pic1.png'
-import matrix from '../assets/mtrxBg.jpg'
+import leo from '../MyPics/leo'
+// import matrix from '../assets/mtrxBg.jpg'
+import matrix from '../assets/mtrxBg'
 
 const About = () => {
     return (
